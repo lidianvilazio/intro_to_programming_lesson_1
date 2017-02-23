@@ -1,6 +1,7 @@
 element.style{
   display: flex;
 }
+
 *{
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -8,13 +9,16 @@ element.style{
   box-sizing: border-box;
   text-align: center;
 }
+
 h1{
   text-align: center;
   color: #595757;
 }
+
 body{
   font-family: cursive;
 }
+
 .lesson{
   background-color: #F79A87;
   border-radius: 0px;
@@ -26,6 +30,7 @@ a:link{
   font-family:cursive;
   text-decoration: none;
 }
+
 .concept{
   background-color: #F2CEAB;
   padding: 4px;
@@ -33,6 +38,7 @@ a:link{
   border-radius: 10px;
   color: #595757;
 }
+
 .concept-title{
   font-size: 20px;
   margin: 8px;
@@ -40,11 +46,20 @@ a:link{
   color: #F15E5E;
 
 }
+
 .concept-description{
   font-weight: lighter;
   margin: 6px;
 }
+
 .italic{
   font-style: oblique;
 }
-/* paleta utilizada neste site:http://www.des1gnon.com//wp-content/uploads/2014/11/Des1gnon_Coolors_paletas-de-cores-3.png*/
+
+iframe{
+  width: 640px;
+  height: 360px;
+  frameborder:"0";
+}
+/*
+paleta utilizada neste site:http://www.des1gnon.com//wp-content/uploads/2014/11/Des1gnon_Coolors_paletas-de-cores-3.png*/
