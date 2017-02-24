@@ -3,9 +3,6 @@ element.style{
 }
 
 *{
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
   box-sizing: border-box;
   text-align: center;
 }
@@ -59,7 +56,7 @@ a:link{
 iframe{
   width: 640px;
   height: 360px;
-  frameborder:"0";
+  border: 0px;
 }
 /*
 paleta utilizada neste site:http://www.des1gnon.com//wp-content/uploads/2014/11/Des1gnon_Coolors_paletas-de-cores-3.png*/
